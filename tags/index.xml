@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Parsa Hugo | Personal Blog Template</title>
-    <link>https://examplesite.org/tags/</link>
+    <link>https://codeorganic.github.io/psgs2/tags/</link>
     <description>Recent content in Tags on Parsa Hugo | Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://codeorganic.github.io/psgs2/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finance</title>
-      <link>https://examplesite.org/tags/finance/</link>
+      <link>https://codeorganic.github.io/psgs2/tags/finance/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/tags/finance/</guid>
+      <guid>https://codeorganic.github.io/psgs2/tags/finance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://examplesite.org/tags/photos/</link>
+      <link>https://codeorganic.github.io/psgs2/tags/photos/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>https://examplesite.org/tags/photos/</guid>
+      <guid>https://codeorganic.github.io/psgs2/tags/photos/</guid>
       <description></description>
     </item>
     
