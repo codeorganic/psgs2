@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photos on Parsa Hugo | Personal Blog Template</title>
+    <title>Photos on PSGS | Puget Sound Gesneriad Society</title>
     <link>https://codeorganic.github.io/psgs2/tags/photos/</link>
-    <description>Recent content in Photos on Parsa Hugo | Personal Blog Template</description>
+    <description>Recent content in Photos on PSGS | Puget Sound Gesneriad Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://codeorganic.github.io/psgs2/tags/photos/index.xml" rel="self" type="application/rss+xml" />
@@ -14,15 +14,6 @@
       
       <guid>https://codeorganic.github.io/psgs2/events/event-2/</guid>
       <description>Monthly meetings</description>
-    </item>
-    
-    <item>
-      <title>Plant Care</title>
-      <link>https://codeorganic.github.io/psgs2/blog/organize-your-life/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      
-      <guid>https://codeorganic.github.io/psgs2/blog/organize-your-life/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
